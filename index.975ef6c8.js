@@ -28623,8 +28623,8 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _shivam1Jpg = require("../images/Shivam1.jpg");
-var _shivam1JpgDefault = parcelHelpers.interopDefault(_shivam1Jpg);
+ */ var _shivamJpg = require("../images/Shivam.jpg");
+var _shivamJpgDefault = parcelHelpers.interopDefault(_shivamJpg);
 const imageAltText = "This is Shivam Raj. A learner and a explorer.";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
@@ -28633,7 +28633,7 @@ const Home = ({ name , title  })=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _shivam1JpgDefault.default),
+                src: (0, _shivamJpgDefault.default),
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
@@ -28716,11 +28716,11 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/Shivam1.jpg":"d4IQ1"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/Shivam.jpg":"9TCMO"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"d4IQ1":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "Shivam1.36e13e4f.jpg" + "?" + Date.now();
+},{"./helpers/bundle-url":"lgJ39"}],"9TCMO":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "Shivam.b5956532.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lCaEt":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$ed0d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
@@ -28761,22 +28761,22 @@ const imageAltText = "desktop with books and laptop";
  */ const projectList = [
     {
         title: "My Portfolio Site \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+        description: "This is my first site which i build for myself during applying for internships and freelancing to others.",
         url: "https://github.com/ShivamSunny/RESUME-Shivam/tree/main/portfolio"
     },
     {
         title: "My Data Science Projects",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+        description: "In this i created some of the most high rated projects which gives a lot of knowledge about different libraries and others.",
         url: "https://github.com/ShivamSunny/Bharatintern_data_science_intern01"
     },
     {
         title: "App in progree for Startup",
-        description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-        url: "#######"
+        description: "This is the design of the app on which we are working for now and we want to make it to win in race more i can't reveal.",
+        url: "https://www.figma.com/file/n8PHsROodeINeM6kbxavbx/App-base-design?type=design&node-id=0-1&mode=design&t=T7L9jGxC2sIMOWef-0"
     },
     {
         title: "SeedSkill-- a running startup",
-        description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+        description: "So, all this starts with from not getting intern for 3rd tier college to getting a internship and building this as a idea.",
         url: "#####"
     }, 
 ];
